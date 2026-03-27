@@ -1,56 +1,65 @@
 # 👋 Salut, moi c'est Arthur Blanchet
 
-## 💻 Développeur C++
+## 💻 Développeur C++ orienté Engine / Rendering
 
-Je suis actuellement en formation au **Gaming Campus de Bordeaux**, où je développe mes compétences en programmation, avec une spécialisation en **C++** et en développement de jeux vidéo.
+Je suis actuellement en formation au **Gaming Campus de Bordeaux**, avec une spécialisation en **C++** et un fort intérêt pour les systèmes bas niveau liés au développement de jeux.
+
+Bien que ma formation soit orientée **jeu vidéo**, je m’intéresse principalement aux aspects techniques avancés comme les **moteurs de jeu**, la **physique** et le **rendu graphique**.
+
+---
+
+## 🎯 Domaines d'intérêt
+
+* ⚙️ **Game Engine Programming**
+* 🎨 **Rendering (graphique temps réel)**
+* 🧮 **Physique (simulation, collisions, math appliquées)**
+* 🚀 Optimisation & performances
+* 🧵 Programmation bas niveau
 
 ---
 
 ## 🎮 Projets
 
-Dans le cadre de ma formation, je réalise différents projets en **C++**, principalement orientés autour du **game development** :
+Au cours de ma formation, je développe des projets en **C++** qui me permettent de :
 
-* Création de mécaniques de jeu
-* Implémentation de systèmes gameplay
-* Travail sur des architectures propres et performantes
+* Implémenter des systèmes de jeu
+* Comprendre les architectures moteur
+* Expérimenter avec des concepts de physique et de rendu
 
 ---
 
-## 🚀 Projets personnels
+## 🔬 Projets personnels
 
-En dehors de ma formation, je développe des projets personnels centrés sur :
+En dehors des cours, je travaille sur des projets plus techniques :
 
-* 🧠 **Moteurs de jeu (Game Engine)**
-* 🎨 **Rendering / Graphismes**
-* ⚙️ Optimisation et bas niveau en C++
-
-Ces projets me permettent d'explorer en profondeur le fonctionnement interne des moteurs et des systèmes graphiques.
+* Développement de **mini game engines**
+* Expérimentation autour du **rendering pipeline**
+* Implémentation de systèmes physiques (collisions, mouvements, etc.)
+* Exploration des mathématiques appliquées au jeu vidéo
 
 ---
 
 ## 🛠️ Compétences
 
-* Langage : **C++**
-* Concepts :
+* **Langage :** C++
+* **Domaines :**
+
+  * Engine Programming
+  * Rendering
+  * Physique / Simulation
+* **Concepts :**
 
   * Programmation orientée objet
   * Structures de données
-  * Architecture logicielle
-* Domaines :
-
-  * 🎮 Développement de jeux vidéo
-  * 🧩 Engine programming
-  * 🖼️ Rendering
+  * Optimisation
+  * Mathématiques appliquées (vecteurs, matrices, etc.)
 
 ---
 
 ## 📫 Me contacter
 
-N'hésite pas à me contacter ou à jeter un œil à mes projets 👇
-
-
-* LinkedIn : (https://www.linkedin.com/in/arthur-blanchet-b4174032b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* LinkedIn : https://www.linkedin.com/in/arthur-blanchet-b4174032b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
-⭐ *Toujours en train d'apprendre et de créer !*
+⭐ *Passionné par les systèmes complexes et les technologies derrière les jeux vidéo*
