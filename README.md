@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Arthur Blanchet
+# Bonjour je m'apelle Arthur Blanche
 
 ## 💻 Développeur C++ orienté Engine / Rendering
 
