@@ -1,65 +1,65 @@
-# Bonjour je m'apelle Arthur Blanchet
+# Hello, my name is Arthur Blanchet
 
-##  Développeur C++ orienté Engine / Rendering
+## C++ Developer focused on Engine / Rendering
 
-Je suis actuellement en formation au **Gaming Campus de Bordeaux**, avec une spécialisation en **C++** et un fort intérêt pour les systèmes bas niveau liés au développement de jeux.
+I am currently studying at **Gaming Campus in Bordeaux**, specializing in **C++** with a strong interest in low-level systems related to game development.
 
-Bien que ma formation soit orientée **jeu vidéo**, je m’intéresse principalement aux aspects techniques avancés comme les **moteurs de jeu**, la **physique** et le **rendu graphique**.
-
----
-
-##  Domaines d'intérêt
-
-*  **Game Engine Programming**
-*  **Rendering (graphique temps réel)**
-*  **Physique (simulation, collisions, math appliquées)**
-*  Optimisation & performances
-*  Programmation bas niveau
+Although my training is focused on **video games**, I am primarily interested in advanced technical aspects such as **game engines**, **physics**, and **graphics rendering**.
 
 ---
 
-##  Projets
+## Areas of Interest
 
-Au cours de ma formation, je développe des projets en **C++** qui me permettent de :
-
-* Implémenter des systèmes de jeu
-* Comprendre les architectures moteur
-* Expérimenter avec des concepts de physique et de rendu
-
----
-
-##  Projets personnels
-
-En dehors des cours, je travaille sur des projets plus techniques :
-
-* Développement de **mini game engines**
-* Expérimentation autour du **rendering pipeline**
-* Implémentation de systèmes physiques (collisions, mouvements, etc.)
-* Exploration des mathématiques appliquées au jeu vidéo
+* **Game Engine Programming**
+* **Rendering (real-time graphics)**
+* **Physics (simulation, collisions, applied mathematics)**
+* Optimization & performance
+* Low-level programming
 
 ---
 
-##  Compétences
+## Projects
 
-* **Langage :** C++
-* **Domaines :**
+During my studies, I develop projects in **C++** that allow me to:
+
+* Implement gameplay systems
+* Understand engine architectures
+* Experiment with physics and rendering concepts
+
+---
+
+## Personal Projects
+
+Outside of coursework, I work on more technical projects:
+
+* Development of **mini game engines**
+* Experimentation around the **rendering pipeline**
+* Implementation of physical systems (collisions, movement, etc.)
+* Exploration of mathematics applied to video games
+
+---
+
+## Skills
+
+* **Language:** C++
+* **Fields:**
 
   * Engine Programming
   * Rendering
-  * Physique
-* **Concepts :**
+  * Physics
+* **Concepts:**
 
-  * Programmation orientée objet
-  * Structures de données
-  * Optimisation
-  * Mathématiques appliquées (vecteurs, matrices, etc.)
-
----
-
-##  Me contacter
-
-* LinkedIn : https://www.linkedin.com/in/arthur-blanchet-b4174032b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  * Object-oriented programming
+  * Data structures
+  * Optimization
+  * Applied mathematics (vectors, matrices, etc.)
 
 ---
 
- *Passionné par les systèmes complexes et les technologies derrière les jeux vidéo*
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/arthur-blanchet-b4174032b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+*Passionate about complex systems and the technologies behind video games*
