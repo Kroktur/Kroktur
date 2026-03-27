@@ -1,6 +1,6 @@
-# Bonjour je m'apelle Arthur Blanche
+# Bonjour je m'apelle Arthur Blanchet
 
-## 💻 Développeur C++ orienté Engine / Rendering
+##  Développeur C++ orienté Engine / Rendering
 
 Je suis actuellement en formation au **Gaming Campus de Bordeaux**, avec une spécialisation en **C++** et un fort intérêt pour les systèmes bas niveau liés au développement de jeux.
 
@@ -8,17 +8,17 @@ Bien que ma formation soit orientée **jeu vidéo**, je m’intéresse principal
 
 ---
 
-## 🎯 Domaines d'intérêt
+##  Domaines d'intérêt
 
-* ⚙️ **Game Engine Programming**
-* 🎨 **Rendering (graphique temps réel)**
-* 🧮 **Physique (simulation, collisions, math appliquées)**
-* 🚀 Optimisation & performances
-* 🧵 Programmation bas niveau
+*  **Game Engine Programming**
+*  **Rendering (graphique temps réel)**
+*  **Physique (simulation, collisions, math appliquées)**
+*  Optimisation & performances
+*  Programmation bas niveau
 
 ---
 
-## 🎮 Projets
+##  Projets
 
 Au cours de ma formation, je développe des projets en **C++** qui me permettent de :
 
@@ -28,7 +28,7 @@ Au cours de ma formation, je développe des projets en **C++** qui me permettent
 
 ---
 
-## 🔬 Projets personnels
+##  Projets personnels
 
 En dehors des cours, je travaille sur des projets plus techniques :
 
@@ -39,7 +39,7 @@ En dehors des cours, je travaille sur des projets plus techniques :
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 * **Langage :** C++
 * **Domaines :**
@@ -56,10 +56,10 @@ En dehors des cours, je travaille sur des projets plus techniques :
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 * LinkedIn : https://www.linkedin.com/in/arthur-blanchet-b4174032b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
-⭐ *Passionné par les systèmes complexes et les technologies derrière les jeux vidéo*
+ *Passionné par les systèmes complexes et les technologies derrière les jeux vidéo*
