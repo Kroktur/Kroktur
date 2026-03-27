@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est [TonNom]
+# 👋 Salut, moi c'est Arthur Blanchet
 
 ## 💻 Développeur C++
 
@@ -48,8 +48,8 @@ Ces projets me permettent d'explorer en profondeur le fonctionnement interne des
 
 N'hésite pas à me contacter ou à jeter un œil à mes projets 👇
 
-* GitHub : [TonGitHub]
-* LinkedIn : [TonLinkedIn]
+
+* LinkedIn : (https://www.linkedin.com/in/arthur-blanchet-b4174032b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
