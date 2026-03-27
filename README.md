@@ -46,7 +46,7 @@ En dehors des cours, je travaille sur des projets plus techniques :
 
   * Engine Programming
   * Rendering
-  * Physique / Simulation
+  * Physique
 * **Concepts :**
 
   * Programmation orientée objet
